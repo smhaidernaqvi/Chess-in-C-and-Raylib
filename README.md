@@ -4,6 +4,8 @@ A complete **Chess Game developed in C++** using **Object-Oriented Programming (
 
 This project was developed as an OOP-focused implementation of a playable chess game, combining software design principles, chess rules, graphical programming, and artificial intelligence.
 
+![Chess Image](Chess_Image.png)
+
 ---
 
 ## 🎮 Features
